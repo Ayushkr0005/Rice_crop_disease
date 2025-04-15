@@ -81,10 +81,12 @@ class CustomAlexNet(nn.Module):
 
 ### 📊 **Visual Insights**  
 🎯 **Confusion Matrix**  
-![Confusion Matrix](https://via.placeholder.com/400x200?text=Confusion+Matrix+Example)  
+<img width="319" alt="image" src="https://github.com/user-attachments/assets/18845d8c-2192-4d2e-9a99-7fce2be3e6cc" />
+
 
 📉 **ROC Curves (Per-Class)**  
-![ROC Curves](https://via.placeholder.com/400x200?text=ROC+Curves+Example)  
+<img width="402" alt="image" src="https://github.com/user-attachments/assets/5507d713-f4c5-42cd-bf8b-19dafa6d8d4a" />
+
 
 ---
 
