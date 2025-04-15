@@ -128,20 +128,3 @@ python train.py --epochs 50 --lr 0.001 --batch_size 16
 2. Submit a PR with clear documentation.  
 
 ---
-
-## 📜 **License**  
-**MIT License** – Open-source for agricultural good.  
-
----
-
-**Let’s grow the future of farming—one leaf at a time!** 🌱💻  
-
-![Farmer Using AI](https://via.placeholder.com/800x400?text=Farmer+Scanning+Rice+Leaves+With+Mobile+App)  
-
-*(Replace placeholder links with actual images/diagrams in production.)*  
-
----  
-**🔗 Relevant Links:**  
-- [Kaggle Dataset](https://www.kaggle.com/datasets/rice-leaf-diseases)  
-- [AlexNet Paper](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)  
-- [PyTorch Docs](https://pytorch.org/docs/stable/index.html)
